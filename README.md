@@ -11,3 +11,5 @@ TODO:
 - [ ] Better multiple choice interface (count score total, etc)
 - [ ] Add script to split questions into random tests of 6
 - [ ] Nicer CSS for multiple choice questions
+
+Pull requests welcome!  Even if you aren't technical, you can contribute by adding new questions to the file `part_1`.
