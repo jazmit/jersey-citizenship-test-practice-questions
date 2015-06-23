@@ -1,0 +1,29 @@
+body {
+    font-family: 'sans-serif';
+    max-width: 40em;
+    margin: auto;
+}
+
+.a-container {
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+.ans-correct :checked + span {
+    color: green;
+}
+
+.ans-wrong :checked + span {
+    color: red;
+}
+
+.q-container {
+    border-radius: 0.5em;
+    border: 1px solid grey;
+    padding: 0.5em;
+    margin: 1em;
+}
+
+h3 {
+    margin-top: 0.2em;
+}
